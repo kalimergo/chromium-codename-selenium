@@ -1,11 +1,7 @@
 
 
-
-
-
 Chromium for 64-bit Windows - codename Selenium
 
-ChromiumSE 130.0.6723.130 (Official Build)
 __________________________________________________________________________________
 
 FASTEST: Win64 PGO Profile Phase 2, Cpu SSE 4.2 or AVX2 version...
