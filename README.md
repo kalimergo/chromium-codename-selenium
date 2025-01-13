@@ -4,7 +4,7 @@ Chromium for 64-bit Windows - codename Selenium
 
 __________________________________________________________________________________
 
-FASTEST: Win64 PGO Profile Phase 2, Cpu SSE 4.2 or AVX2 version, Parallel Downloading
+FASTEST: Win64 PGO Profile Phase 2, Cpu SSE 4.2 or AVX2 version, Parallel Downloading Enable
 
 SAFER: RSA-Key-Length 2048 (default 1024), No-Disable Encryption (cookies and passwords remain protected)
 
