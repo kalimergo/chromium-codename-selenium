@@ -14,10 +14,13 @@ https://chromewebstore.google.com/detail/selenium/bmdngmcgiplbnlpgbmajlekheccpgn
 
 [replace_files.zip](https://github.com/user-attachments/files/19722062/replace_files.zip)
 _______________________________________________________________________
+
+CPU INSTRUCTIONS: sse3 (CPU after 2003), sse4.2 (CPU after 2008), AVX (CPU after 2011), AVX2 (CPU after 2013)
+
 TEST: Benchmark For Browser ->
 https://browserbench.org/JetStream2.2/index.html
 
 TEST: How Trackers View Your Browser -> 
 https://coveryourtracks.eff.org/
 
-CPU INSTRUCTIONS: sse3 (CPU after 2003), sse4.2 (CPU after 2008), AVX (CPU after 2011), AVX2 (CPU after 2013)
+
