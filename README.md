@@ -20,4 +20,4 @@ https://browserbench.org/JetStream2.2/index.html
 TEST: How Trackers View Your Browser -> 
 https://coveryourtracks.eff.org/
 
-
+CPU intructions: sse3 (CPU after 2003), sse4.2 (CPU after 2008), AVX (CPU after 2011), AVX2 (CPU after 2013)
