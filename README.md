@@ -17,7 +17,7 @@ _______________________________________________________________________
 CPU INSTRUCTIONS: SSE4.2 (CPU after 2008), AVX (CPU after 2011), AVX2 (CPU after 2013)
 
 TEST: Benchmark For Browser ->
-https://browserbench.org/JetStream2.2/index.html
+https://browserbench.org/JetStream3.0/index.html
 
 TEST: How Trackers View Your Browser -> 
 https://coveryourtracks.eff.org/
