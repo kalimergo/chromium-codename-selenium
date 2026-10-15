@@ -27,4 +27,6 @@ https://browserbench.org/JetStream3.0/index.html
 TEST: How Trackers View Your Browser -> 
 https://coveryourtracks.eff.org/
 
+_______________________________________________________________________
+
 Thx for some Ungoogled chromium patch and some Helium patch
