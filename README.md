@@ -29,4 +29,4 @@ https://coveryourtracks.eff.org/
 
 _______________________________________________________________________
 
-Thx for some Ungoogled chromium patch and some Helium patch
+Thx for some Ungoogled chromium patches and some Helium patches
